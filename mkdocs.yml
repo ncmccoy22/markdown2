@@ -1,0 +1,8 @@
+site_name: Markdown Project
+site_description: Nicole's first project created with Markdown and MkDocs.
+theme: readthedocs
+Nav:
+  - Home: index.md
+  - About: about.md
+  - LavaCon Presention: LavaCon.md
+  - Contact: contact.md
